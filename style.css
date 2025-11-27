@@ -43,8 +43,8 @@ transition: transform 0.2s ease;
 transform: scale(1.05);
 }
 footer {
-background: #2c3e50;
-color: green;
+background: forest green;
+color: white;
 text-align: center;
 padding: 1em;
 margin-top: 2em;
