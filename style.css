@@ -3,10 +3,10 @@ body {
 margin: 0;
 font-family: 'Helvetica Neue', sans-serif;
 background-color: #fff;
-color: white;
+color: grey;
 }
 header {
-background: pink;
+background: forest green;
 color: white;
 padding: 1em;
 text-align: center;
