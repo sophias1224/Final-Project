@@ -47,6 +47,11 @@ transform: scale(1.05);
   font-size: 1.5rem;
   margin: 10px 0;
 }
+.services-list {
+  text align: center
+  padding: 20px;
+  list-style-position: inside:
+  }
 footer {
 background: #2c3e50;
 color: white;
