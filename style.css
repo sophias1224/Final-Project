@@ -43,6 +43,10 @@ transition: transform 0.2s ease;
 .grid-gallery img:hover {
 transform: scale(1.05);
 }
+.services-list li {
+  font-size: 1.5 rem;
+  margin: 10px 0:
+}
 footer {
 background: #2c3e50;
 color: white;
