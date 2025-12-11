@@ -43,8 +43,9 @@ transition: transform 0.2s ease;
 .grid-gallery img:hover {
 transform: scale(1.05);
 }
-.button {
-  text-align: center;
+button {
+  display: block;
+  margin: 0 auto;
 }
 .services-list li {
   font-size: 1.5rem;
